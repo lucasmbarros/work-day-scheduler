@@ -9,7 +9,7 @@ A website that helps you organize your schedule
 * JavaScript
 
 # Website
-
+https://lucasmbarros.github.io/work-day-scheduler/
 
 ![Work Day Scheduler complete page](assets/images/full-page.png)
 
